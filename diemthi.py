@@ -1,6 +1,5 @@
 import scrapy
 import logging
-from bs4 import BeautifulSoup as bs
 from openpyxl import Workbook
 from openpyxl.utils import get_column_letter
 wb = Workbook()
